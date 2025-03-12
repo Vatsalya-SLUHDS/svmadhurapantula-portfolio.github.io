@@ -1,5 +1,14 @@
-Title:
-logo:
-description:
-show_downloads: true
-theme: jekyll-theme-minimal
+# Title of your site
+title: "svmadhurapantula-portfolio.github.io"  # Replace with your actual site title
+
+# Logo of your site (URL or path to the image)
+logo: "C:\Users\saiva\OneDrive - Saint Louis University\Pictures\Saved Pictures\WhatsApp Image 2025-03-11 at 18.07.53_bd5d07f8.jpg"  # Add the path or URL to your logo
+
+# Description of your site
+description: Portfolio  # Replace with your actual description
+
+# Show download links for projects
+show_downloads: true  # Set to false if you don't want to show download links
+
+# Theme for the site
+theme: jekyll-theme-cayman  # The name of the theme you are using
