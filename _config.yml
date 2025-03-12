@@ -11,4 +11,4 @@ description: Portfolio  # Replace with your actual description
 show_downloads: true  # Set to false if you don't want to show download links
 
 # Theme for the site
-theme: jekyll-theme-cayman  # The name of the theme you are using
+theme: jekyll-theme-minimal  # The name of the theme you are using
