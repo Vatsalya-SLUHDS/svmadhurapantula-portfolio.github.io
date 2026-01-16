@@ -100,10 +100,12 @@ Key Achievements
 -	Python for Data Science - Internshala (2024)
 -	Clinical Trial Analysis & Reporting using SAS - Internshala (2024).
 
+### Publications
+-	3 peer-reviewed publications in international journals (30+ citations)
+Link: https://scholar.google.com/citations?user=29uatdQAAAAJ&hl=en
 
 ### Acheivements & Affiliations
--	3 peer-reviewed publications in international journals (27+ citations).
--	Presidential & CSC Scholarship, Zhengzhou University (2018).
+-	Presidential Scholarship & CSC Chinese Government Scholarship, Zhengzhou University (2018).
 -	Member, Healthcare Information and Management Systems Society (HIMSS).
 
 
