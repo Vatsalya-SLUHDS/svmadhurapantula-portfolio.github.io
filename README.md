@@ -7,15 +7,25 @@
 
 ### Skills
 **Analytics Engineering & Data Modeling:** Analytics engineering, dimensional modeling (fact & dimension tables), ELT workflows, data validation, data quality checks, metric definitions, documentation, reproducible pipelines
+
 **Data Preparation & SQL Analytics:** Data Cleaning and Validation, ETL/ELT, Data Wrangling, Large-Scale Data Integration, CTEs, Window Functions, Stored Procedures, Query Optimization
-*Business Intelligence & Reporting:* Tableau, Power BI (DAX, Power Query), Looker Studio; Dashboards, KPI Tracking, Ad Hoc & Automated Reporting, Data Storytelling
+
+**Business Intelligence & Reporting:** Tableau, Power BI (DAX, Power Query), Looker Studio; Dashboards, KPI Tracking, Ad Hoc & Automated Reporting, Data Storytelling
+
 **Database Management & Data Quality:** Database maintenance, structured data entry, data validation, accuracy checks, discrepancy resolution, data audits, standard operating procedures (SOPs), documentation compliance
+
 **Machine Learning & Predictive Analytics:** Supervised Learning (Classification, Regression, Support Vector Machine (SVM), Decision Trees, Naïve Bayes, K-Nearest Neighbor (KNN)); Unsupervised Learning (Clustering, K-Means); Ensemble Methods (Random Forest, Gradient Boosting); Predictive Modeling, Feature Engineering; Model Evaluation (Cross-Validation, ROC/AUC, Precision-Recall); Exploratory Data Analysis (EDA)
+
 **Programming & Automation:** Python (Pandas, NumPy, data transformation, automation), SQL-Python integration, scripting for analytics workflows
+
 **Cloud & Platforms:** Snowflake, GCP, AWS, Git/GitHub
+
 **BI & Analytics Consumption:** Tableau, Power BI, KPI design, stakeholder-facing dashboards, performance reporting
+
 **Excel & Productivity:** Advanced Excel (Pivot Tables, XLOOKUP/VLOOKUP, SUMIF/COUNTIF), Data Cleaning & Analysis
+
 **GenAI for Analytics (Applied):** LLM-assisted analytics workflows, SQL generation support, narrative insights for reporting (foundational)
+
 **Process & Collaboration Tools:** Agile (Kanban), Workflow Optimization; Jira, Confluence, Slack, Notion, Lucidchart
 
 ### Work Experience
