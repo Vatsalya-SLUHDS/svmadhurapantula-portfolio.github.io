@@ -12,8 +12,6 @@
 
 **Business Intelligence & Reporting:** Tableau, Power BI (DAX, Power Query), Looker Studio; Dashboards, KPI Tracking, Ad Hoc & Automated Reporting, Data Storytelling
 
-**Database Management & Data Quality:** Database maintenance, structured data entry, data validation, accuracy checks, discrepancy resolution, data audits, standard operating procedures (SOPs), documentation compliance
-
 **Machine Learning & Predictive Analytics:** Supervised Learning (Classification, Regression, Support Vector Machine (SVM), Decision Trees, Naïve Bayes, K-Nearest Neighbor (KNN)); Unsupervised Learning (Clustering, K-Means); Ensemble Methods (Random Forest, Gradient Boosting); Predictive Modeling, Feature Engineering; Model Evaluation (Cross-Validation, ROC/AUC, Precision-Recall); Exploratory Data Analysis (EDA)
 
 **Programming & Automation:** Python (Pandas, NumPy, data transformation, automation), SQL-Python integration, scripting for analytics workflows
