@@ -1,5 +1,5 @@
 # Data Science and Analytics Professional
-- Data Analyst with over 7 years of experience in analytics, predictive modeling, and machine learning across healthcare, research, and technology. 
+- Data Professional with over 7 years of experience in analytics, predictive modeling, and machine learning across healthcare, research, and technology. 
 - Skilled in designing and delivering scalable data pipelines, predictive models, and interactive dashboards to drive actionable insights and business decisions.
 - Experienced with large cloud-based datasets, advanced statistical methods, and AI/ML applications. 
 - Proven ability to lead end-to-end projects, collaborate with cross-functional teams, and translate complex findings into clear recommendations.
