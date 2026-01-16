@@ -21,6 +21,7 @@
 ## Work Experience
 ### Data Analyst | Ascension | St. Louis, MO | 05/2025 - 08/2025
 Led end-to-end development of a predictive analytics system for a CMS value-based Medicare penalty reduction program (HACRP), forecasting infection metrics and penalty risk across 70+ facilities. Delivered automated data pipelines and executive dashboards that guided quality improvement strategies and reduced potential CMS penalties.
+
 Key Achievements
 - Designed and implemented SQL-based ELT pipelines to integrate multi-source datasets into analytics-ready tables, supporting enterprise reporting and performance monitoring.
 -	Built optimized SQL transformations using CTEs and window functions to standardize metrics and enable consistent downstream analytics.
@@ -33,6 +34,7 @@ Key Achievements
 
 ### Graduate Research Assistant - Analytics | Heartland Center | St. Louis, MO | 07/2024 - 08/2025
 Worked on analytics and reporting initiatives by preparing reliable, well-structured datasets. Helped improve data quality, reporting consistency, and knowledge sharing across teams.
+
 Key Achievements
 -	Engineered structured data workflows to support analytics and reporting across education and research platforms.
 -	Cleaned, validated, and transformed datasets using SQL, Python, and Excel to ensure consistent, analysis-ready outputs.
@@ -43,6 +45,7 @@ Key Achievements
 
 ### Data Research Analyst | Zhengzhou University | Henan, China | 09/2018 - 07/2023
 Led analytics for large multi-cohort (10,000+ participants), supporting research, reporting, and resulting in three peer-reviewed publications in high-impact international journals.
+
 Key Achievements
 -	Engineered SQL/Python ETL pipelines to clean, merge, and standardize large, multi-format clinical and survey datasets, improving analysis speed and data quality.
 -	Developed predictive, clustering, regression, and longitudinal models that uncovered risk factors and trends driving three peer-reviewed publications.
@@ -52,6 +55,7 @@ Key Achievements
 
 ### Data Analyst | OMNI RK Super Specialty Hospital | India | 08/2017 - 07/2018
 Supported hospital operations by transforming EHR, HIS, lab, and claims data into meaningful insights that improved patient care, reporting accuracy, and operational planning.
+
 Key Achievements
 -	Cleaned, validated, and integrated large clinical datasets across multiple hospital systems.
 -	Analyzed utilization, outcomes, and disease patterns to support clinical and operational decision-making.
